@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "671996381231",
+    "project_id": "login-register-firebase-bd681",
+    "storage_bucket": "login-register-firebase-bd681.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671996381231:android:01350d3002dd7f69b7deda",
+        "android_client_info": {
+          "package_name": "com.example.boardswipe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHxzCIoxYawnd6K9Eisr5cgs2Gudrxv04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
