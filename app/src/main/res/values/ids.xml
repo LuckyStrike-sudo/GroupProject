@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="profile_image" type="id"></item>
+    <item name="min_max_play_time" type="id"></item>
+    <item name="min_max_players" type="id"></item>
+    <item name="difficulty" type="id"></item>
+    <item name="profile_name" type="id"></item>
+    <item name="profileContainer" type="id"></item>
+</resources>
